@@ -1,0 +1,272 @@
+[
+  {
+    "filename": "RCS01A_1.csv",
+    "fault_type": 0,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01A_10.csv",
+    "fault_type": 0,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01A_2.csv",
+    "fault_type": 0,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01A_3.csv",
+    "fault_type": 0,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01A_4.csv",
+    "fault_type": 0,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01A_5.csv",
+    "fault_type": 0,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01A_6.csv",
+    "fault_type": 0,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01A_7.csv",
+    "fault_type": 0,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01A_8.csv",
+    "fault_type": 0,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01A_9.csv",
+    "fault_type": 0,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01D_1.csv",
+    "fault_type": 1,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01D_10.csv",
+    "fault_type": 1,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01D_2.csv",
+    "fault_type": 1,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01D_3.csv",
+    "fault_type": 1,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01D_4.csv",
+    "fault_type": 1,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01D_5.csv",
+    "fault_type": 1,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01D_6.csv",
+    "fault_type": 1,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01D_7.csv",
+    "fault_type": 1,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01D_8.csv",
+    "fault_type": 1,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS01D_9.csv",
+    "fault_type": 1,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS18A_1.csv",
+    "fault_type": 2,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS18A_10.csv",
+    "fault_type": 2,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS18A_2.csv",
+    "fault_type": 2,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS18A_3.csv",
+    "fault_type": 2,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS18A_4.csv",
+    "fault_type": 2,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS18A_5.csv",
+    "fault_type": 2,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS18A_6.csv",
+    "fault_type": 2,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS18A_7.csv",
+    "fault_type": 2,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS18A_8.csv",
+    "fault_type": 2,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  },
+  {
+    "filename": "RCS18A_9.csv",
+    "fault_type": 2,
+    "data_points": 5368,
+    "shape": [
+      61,
+      88
+    ]
+  }
+]
